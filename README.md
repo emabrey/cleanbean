@@ -1,4 +1,4 @@
-# cleanbean style :coffee: :pencil::
+# :coffee: cleanbean style
 [![Logo saying "CC BY"][cc-logo]][cc-link]
 
 A Java style guide licensed under the Creative Commons [Attribution 4.0 International][cc-link] License.
